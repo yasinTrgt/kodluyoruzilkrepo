@@ -5,15 +5,21 @@ Kodluyoruz Eğitimi kapsamında açtığım ilk repo
 
 # Installation
  Öncelikle projeyi clonlayın
- 'git clone [https://github.com/yasinTrgt/kodluyoruzilkrepo]'
+ ```
+ git clone [https://github.com/yasinTrgt/kodluyoruzilkrepo]
+ ```
 
 # Usage
  Projeyi klonladıktan sonra VSC programında açınız.
+
  Linux icin:
- '''
+
+ ```
  cd kodluyoruzilkrepo
+
  code .
- '''
+ ```
+ 
 
 # Contributing
  Pull requestler kabul edilir. Büyük değişiklikler için, lütfen önce neyi değiştirmek istediğinizi tartışmak için bir konu açınız.
